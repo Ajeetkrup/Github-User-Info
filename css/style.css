@@ -1,0 +1,20 @@
+.error {
+  color: red;
+  font-weight: 500;
+}
+
+.user-img {
+  width: 10rem;
+}
+
+.user-img > img {
+  height: 9rem;
+}
+
+.repo-info {
+  width: 48%;
+}
+
+.user > .user-info {
+  margin: 0 7rem;
+}
